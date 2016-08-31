@@ -1,2 +1,2 @@
-# ChromeExt_notepad
+# Chrome Extension Notepadd
 Simple notepad as a chrome extension
